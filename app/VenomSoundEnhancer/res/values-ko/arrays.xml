@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="presets_names">
+        <item>클래식</item>
+        <item>저음 강조</item>
+        <item>보컬</item>
+        <item>고음 강조</item>
+        <item>라이브</item>
+        <item>댄스</item>
+        <item>온기</item>
+        <item>스위트너</item>
+        <item>블루스</item>
+        <item>컨트리</item>
+        <item>재즈</item>
+        <item>라틴</item>
+        <item>뉴 에이지</item>
+        <item>피아노</item>
+        <item>팝</item>
+        <item>알앤비</item>
+        <item>락</item>
+    </string-array>
+    <string-array name="presets_values">
+        <item>5,4,4,1,0,2,2,3,5,6</item>
+        <item>5,5,5,4,3,0,0,0,1,1</item>
+        <item>0,0,0,3,4,5,5,5,0,0</item>
+        <item>0,0,0,0,0,2,4,5,5,5</item>
+        <item>2,2,0,3,2,2,4,4,3,4</item>
+        <item>3,6,6,2,-2,1,3,3,3,4</item>
+        <item>0,2,4,3,2,1,-1,0,0,1</item>
+        <item>3,3,0,0,-1,-2,-1,1,4,4</item>
+        <item>-1,0,2,1,0,0,0,0,-1,-4</item>
+        <item>-1,0,0,2,2,0,0,0,4,4</item>
+        <item>6,3,4,3,-1,4,5,3,3,4</item>
+        <item>3,3,0,0,-1,-2,-1,1,4,5</item>
+        <item>0,4,4,0,0,0,0,0,0,0</item>
+        <item>2,2,0,3,2,2,3,4,3,4</item>
+        <item>-2,-1,0,2,4,4,2,0,-1,-2</item>
+        <item>3,6,6,2,-2,1,3,3,3,4</item>
+        <item>3,6,9,2,-4,2,3,3,4,6</item>
+    </string-array>
+    <string-array name="headset_names">
+        <item>Beats urBeats</item>
+        <item>Beats Solo</item>
+        <item>Beats urBeats v2</item>
+        <item>Beats Solo v2</item>
+        <item>Mid-Tier</item>
+        <item>기타</item>
+    </string-array>
+    <string-array name="headset_icons">
+        <item>headset_urbeats</item>
+        <item>headset_beats_solo</item>
+        <item>headset_urbeats2</item>
+        <item>headset_beats_solo</item>
+        <item>headset_other</item>
+        <item>headset_other</item>
+    </string-array>
+    <string-array name="headset_ids">
+        <item>1000</item>
+        <item>1001</item>
+        <item>1004</item>
+        <item>1005</item>
+        <item>1007</item>
+        <item>1010</item>
+    </string-array>
+    <string-array name="effects_names">
+        <item>Beats Audio</item>
+        <item>SRS</item>
+        <item>돌비</item>
+        <item>영화</item>
+        <item>보이스</item>
+        <item>이퀄라이저</item>
+    </string-array>
+    <string-array name="effects_icons">
+        <item>icon_launcher_beats_red</item>
+        <item>icon_launcher_srs</item>
+        <item>icon_launcher_dolby</item>
+        <item>icon_launcher_movie</item>
+        <item>icon_launcher_speaker</item>
+        <item>icon_launcher_equalizer</item>
+    </string-array>
+    <string-array name="effects_ids">
+        <item>900</item>
+        <item>2</item>
+        <item>3</item>
+        <item>822</item>
+        <item>821</item>
+        <item>820</item>
+    </string-array>
+</resources>

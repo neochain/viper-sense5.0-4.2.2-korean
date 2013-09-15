@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pref_logs_deleted">
+        <item quantity="other">%1$d개의 로그가 삭제되었습니다</item>
+        <item quantity="one">로그가 삭제되었습니다</item>
+    </plurals>
+    <plurals name="malicious_apps_message1">
+        <item quantity="other">The following packages were found to be malicious:</item>
+        <item quantity="one">The following package was found to be malicious:</item>
+    </plurals>
+</resources>
