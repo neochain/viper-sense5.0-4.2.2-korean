@@ -281,7 +281,7 @@
     <string name="eqs_wifi_scan">검색중...</string>
     <string name="eqs_wifi_connecting">%s에 연결중...</string>
     <string name="eqs_wifi_obtainip">IP 주소를 확인하는 중...</string>
-    <string name="eqs_xloud">소니 xLoud</string>
+    <string name="eqs_xloud">xLoud</string>
     <string name="ext_batinfo_charge">충전중 : %1$s</string>
     <string name="ext_batinfo">배터리 : %1$s</string>
     <string name="ext_cpuinfo_mgz">MHz</string>
