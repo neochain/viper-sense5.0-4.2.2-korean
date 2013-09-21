@@ -495,7 +495,7 @@
     <string name="minfree_slider_6">비어있는 앱</string>
     <string name="mbyte">%1$d MB</string>
     <string name="px">%1$d px</string>
-    <string name="signal_icons">Signal Icons</string>
+    <string name="signal_icons">시그널 아이콘</string>
     <string name="signal_icons_summary">Choose desired signal icons</string>
     <string name="always_display_data">Always Display Data Icon</string>
     <string name="always_display_data_summary">Displays data icon even when connected to WiFi</string>
@@ -758,15 +758,15 @@
     <string name="logo2wake_summary">Logo2Wake allows you to sleep or wake the device by long pressing the HTC logo. You have to press just slightly above the HTC logo. The screen will automatically turn on or off with a long press.</string>
     <string name="pocket_detection">Pocket Detection</string>
     <string name="pocket_detection_summary">Pocket detection protects against accidental wakes while S2W, DT2W or L2W are enabled and the phone is in your pocket.</string>
-    <string name="logo2menu">Logo2Menu</string>
-    <string name="logo2menu_summary">Enabling Logo2Menu allows you to use the HTC logo as a menu button. You must press just slightly above the HTC logo</string>
+    <string name="logo2menu">로고2메뉴</string>
+    <string name="logo2menu_summary">HTC로고를 메뉴 버튼으로 Enabling Logo2Menu allows you to use the HTC logo as a menu button. You must press just slightly above the HTC logo</string>
     <string name="bln">Button Light Notification</string>
     <string name="bln_summary">With Button Light Notification, the capacitive buttons will blink on and off when you have a new notification</string>
     <string name="fastcharge">빠른 충전</string>
     <string name="fastcharge_summary">This allows to force AC charging for any charger that is detected as USB</string>
     <string name="button_vibrations">Button vibrations</string>
     <string name="button_vibrations_summary">Set the vibration strength for the button/sweep2wake actions</string>
-    <string name="colors_sense">Sense</string>
+    <string name="colors_sense">센스</string>
     <string name="quiet_hours">Quiet Hours</string>
     <string name="quiet_hours_settings">Quiet Hours Settings</string>
     <string name="quiet_hours_summary">Active from %1$s to %2$s</string>
@@ -797,12 +797,12 @@
     <string name="lmt_info">LMT by noname81</string>
     <string name="lmt_info_summary">"베놈Pie는 LMT를 기반으로 만들어졌습니다.
 LMT는 더 많은 기능을 가지고 있습니다! LMT를 우리에게 알맞게 만들어준 noname81님께 큰 감사를 드립니다. 여기를 눌러, 그의 쓰레드를 방문해보세요"</string>
-    <string name="use_pie">Use Pie</string>
+    <string name="use_pie">파이 사용</string>
     <string name="use_pie_summary">Enables the use of VenomPie</string>
-    <string name="pie_start">Start Pie Service</string>
+    <string name="pie_start">파이 서비스 시작</string>
     <string name="pie_start_summary">"Starts the pie touchservice - If the pie doesn't work anymore, come here and restart the service."</string>
-    <string name="pie_stopped">베놈Pie가 멈추었습니다</string>
-    <string name="pie_started">베놈Pie가 시작되었습니다</string>
+    <string name="pie_stopped">베놈파이가 멈추었습니다</string>
+    <string name="pie_started">베놈파이가 시작되었습니다</string>
     <string name="pie_activation">Activation</string>
     <string name="pie_appearance">Appearance</string>
     <string name="pie_position">Position</string>
@@ -991,7 +991,7 @@ Credits and thanks to Basil3 for the tutorial."</string>
     <string name="lockscreen_weather_summary">잠금화면에서 표시할 날씨의 날씨의 도시를 선택하거나 숨깁니다</string>
     <string name="rosie_weather">날씨</string>
     <string name="rosie_weather_summary">블링크피드와 어플서랍에서 표시할 날씨의 날씨의 도시를 선택하거나 숨깁니다</string>
-    <string name="folders">Folders</string>
+    <string name="folders">폴더</string>
     <string name="rosie_folder_center">Open in center</string>
     <string name="rosie_folder_center_summary">Opens folder incenter of screen, insted of near icon</string>
     <string name="blinkfeed_autosync_interval">Auto sync interval</string>

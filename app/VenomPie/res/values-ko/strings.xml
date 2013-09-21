@@ -3,14 +3,14 @@
     <string name="abs__action_bar_home_description">Navigate home</string>
     <string name="abs__action_bar_up_description">Navigate up</string>
     <string name="abs__action_menu_overflow_description">더 많은 옵션</string>
-    <string name="abs__action_mode_done">Done</string>
+    <string name="abs__action_mode_done">완료</string>
     <string name="abs__activity_chooser_view_see_all">모두 보기...</string>
-    <string name="abs__activity_chooser_view_dialog_title_default">Select activity</string>
+    <string name="abs__activity_chooser_view_dialog_title_default">작업 선택</string>
     <string name="abs__share_action_provider_share_with">Share with...</string>
-    <string name="abs__activitychooserview_choose_application">Choose an application</string>
+    <string name="abs__activitychooserview_choose_application">애플리케이션 선택</string>
     <string name="abs__shareactionprovider_share_with">Share with</string>
     <string name="abs__shareactionprovider_share_with_application">Share with %s</string>
-    <string name="app_name">베놈Pie</string>
-    <string name="image">image</string>
+    <string name="app_name">베놈 파이</string>
+    <string name="image">이미지</string>
     <string name="button">버튼</string>
 </resources>
