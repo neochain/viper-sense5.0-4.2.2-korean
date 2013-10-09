@@ -64,7 +64,7 @@
     <string name="aosp_hide_widgets_summary">AOSP 잠금화면에서 왼쪽패널과 위젯을 비활성화합니다</string>
     <string name="aosp_hide_camera_widgets">카메라 사용 안 함</string>
     <string name="aosp_hide_camera_widgets_summary">AOSP 잠금화면에서 오른쪽 패널에 위치한 카메라를 비활성화합니다</string>
-    <string name="lockscreen_flashlight">플래시라이트</string>
+    <string name="lockscreen_flashlight">손전등</string>
     <string name="screenoff_flashlight">Flashlight behavior</string>
     <string name="screenoff_flashlight_summary">Turn screen off when toggling flashlight</string>
     <string name="aosp_lockscreen_appearance">AOSP Lockscreen appearance</string>
@@ -663,8 +663,8 @@
     <string name="bugreport_instruction">&lt;p>&lt;b>Creating bug report:&lt;/b> &lt;p> &lt;ul> &lt;li>Press Start recording button &lt;li>Perform actions to make error &lt;li>If you want to attach screenshots to the report, longpress home button to take screenshot, and it will be attached &lt;li>Press on the notification in notification area to stop recording &lt;li>Open Venom/BugReports folder on your sdcard with any file explorer, and send to us generated zip file &lt;/ul> &lt;/p></string>
     <string name="allowed_rotations">회전 각도</string>
     <string name="allowed_rotations_summary">회전을 사용했을 때 허용하는 각도를 설정합니다</string>
-    <string name="quick_flash">빠른 플래시라이트</string>
-    <string name="quick_flash_summary">화면이 꺼져 있을 때, 전원 버튼을 길게 눌러 플래시라이트를 킵니다.  전원 버튼을 떼면 플래시라이트는 꺼집니다.</string>
+    <string name="quick_flash">빠른 손전등</string>
+    <string name="quick_flash_summary">화면이 꺼져 있을 때, 전원 버튼을 길게 눌러 손전등을 킵니다.  전원 버튼을 떼면 손전등은 꺼집니다.</string>
     <string name="lockscreen_clock_style">시계 크기</string>
     <string name="lockscreen_clock_style_summary">잠금화면의 시계 크기를 설정합니다</string>
     <string name="rosie_menu">메뉴 설정</string>
@@ -696,7 +696,7 @@
     <string name="systemui_shake_summary">알림/빠른 설정 탭에 있을 때 휴대전화를 흔들면 실행할 작업을 결정합니다</string>
     <string name="quick_actions">빠른 작업</string>
     <string name="disable_stock_quicksettings_summary">Disables the native quicksettings and replaces the right top button with the known settings button.</string>
-    <string name="disable_stock_quicksettings">Disable quicksettings</string>
+    <string name="disable_stock_quicksettings">빠른설정 사용 안 함</string>
     <string name="gpu_oc">GPU</string>
     <string name="gpu2d_oc">2D 클럭</string>
     <string name="gpu3d_oc">3D 클럭</string>
@@ -716,10 +716,10 @@
     <string name="colors_weather">날씨 패널</string>
     <string name="colors_information">Information Line</string>
     <string name="colors_appdrawer">어플서랍</string>
-    <string name="htc_animation">HTC switching animation</string>
-    <string name="htc_animation_summary">Allows you select animation type while switching tabs in HTC apps</string>
+    <string name="htc_animation">HTC 전환 애니메이션</string>
+    <string name="htc_animation_summary">HTC 앱의 탭을 변경할때 전환 효과를 설정합니다</string>
     <string name="fakeimei">가짜 IMEI</string>
-    <string name="fakeimei_summary">앱에서 IMEI를 리포트할때 가짜 IMEI를 전송할 앱을 선택합니다</string>
+    <string name="fakeimei_summary">앱에서 IMEI를 리포트할때 가짜 IMEI를 전송합니다</string>
     <string name="random_imei">랜덤</string>
     <string name="fakeimei_dialog">랜덤 IMEI를 사용하고 싶다면 just left this input field empty</string>
     <string name="volumesteps">Custom volume steps</string>
@@ -798,7 +798,7 @@
     <string name="lmt_info_summary">"베놈Pie는 LMT를 기반으로 만들어졌습니다.
 LMT는 더 많은 기능을 가지고 있습니다! LMT를 우리에게 알맞게 만들어준 noname81님께 큰 감사를 드립니다. 여기를 눌러, 그의 쓰레드를 방문해보세요"</string>
     <string name="use_pie">파이 사용</string>
-    <string name="use_pie_summary">Enables the use of VenomPie</string>
+    <string name="use_pie_summary">베놈파이를 사용합니다</string>
     <string name="pie_start">파이 서비스 시작</string>
     <string name="pie_start_summary">"Starts the pie touchservice - If the pie doesn't work anymore, come here and restart the service."</string>
     <string name="pie_stopped">베놈파이가 멈추었습니다</string>
